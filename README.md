@@ -1,6 +1,6 @@
 # Test
 Virtual youtube
-This is a simple work model of a database model . In this project we will show how to update a data and 
+This is a simple work model of a database model . In this project we will see how to update a data and 
 remove a data from a database, which will affect the content of the website.
 The languages which are used are java,jsp, mysql.
 There is a admin page which will help to add any embedded link to the video browsing website with the title which will be given.
